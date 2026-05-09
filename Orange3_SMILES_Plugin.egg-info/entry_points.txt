@@ -1,0 +1,3 @@
+[orange.widgets]
+Data = orangecontrib.smiles_features.data
+Visualize = orangecontrib.smiles_features.visualize

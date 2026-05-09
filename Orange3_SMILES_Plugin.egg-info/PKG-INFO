@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: Orange3-SMILES-Plugin
+Version: 1.0.2
+Summary: A plugin to extract molecular descriptors and visualize SMILES.
+Requires-Dist: Orange3
+Requires-Dist: rdkit
+Requires-Dist: numpy
+Requires-Dist: AnyQt
+Dynamic: requires-dist
+Dynamic: summary

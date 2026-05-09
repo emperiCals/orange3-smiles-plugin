@@ -1,0 +1,4 @@
+Orange3
+rdkit
+numpy
+AnyQt

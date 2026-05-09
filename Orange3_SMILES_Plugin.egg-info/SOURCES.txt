@@ -1,0 +1,14 @@
+setup.py
+Orange3_SMILES_Plugin.egg-info/PKG-INFO
+Orange3_SMILES_Plugin.egg-info/SOURCES.txt
+Orange3_SMILES_Plugin.egg-info/dependency_links.txt
+Orange3_SMILES_Plugin.egg-info/entry_points.txt
+Orange3_SMILES_Plugin.egg-info/requires.txt
+Orange3_SMILES_Plugin.egg-info/top_level.txt
+orangecontrib/__init__.py
+orangecontrib/smiles_features/__init__.py
+orangecontrib/smiles_features/data/__init__.py
+orangecontrib/smiles_features/data/ow_smiles_transformer.py
+orangecontrib/smiles_features/visualize/__init__.py
+orangecontrib/smiles_features/visualize/ow_smiles_drawer.py
+orangecontrib/smiles_features/visualize/ow_smiles_viewer.py
